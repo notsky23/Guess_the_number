@@ -12,7 +12,7 @@ Binary Search Algorithm solution:
 image from ComputerHope.com
 <br><br>
 
-Time Complexity:
+Time Complexity: O(log n)<br>
 <br><br>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfGyVAX0HA60bp7FucUqAMBgKuBsMcz0J06g&usqp=CAU"  alt="Binary Search Big O" title="Binary Search Big O Image">'
 <br>
